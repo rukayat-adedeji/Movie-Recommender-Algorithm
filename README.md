@@ -20,3 +20,5 @@ This project involved building a hybrid recommender system that leverages user a
 - Natural Language Processing (NLP)
 - Algorithm Development
 - Model Evaluation
+## Data
+Data used in this project can be found on Kaggle at https://www.kaggle.com/competitions/alx-movie-recommendation-project-2024
