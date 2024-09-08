@@ -22,3 +22,17 @@ This project involved building a hybrid recommender system that leverages user a
 - Model Evaluation
 ## Data
 Data used in this project can be found on Kaggle at https://www.kaggle.com/competitions/alx-movie-recommendation-project-2024
+
+## Tools and Technologies
+- Python
+- Pandas
+- Scikit-learn
+- Surprise Library (for collaborative filtering)
+- TF-IDF Vectorizer
+- Cosine Similarity
+
+## Future Improvements
+- Enhance the model by incorporating user feedback to fine-tune recommendations.
+- Explore deep learning techniques to further improve recommendation accuracy.
+- Deploy the recommender system as a web application.
+
